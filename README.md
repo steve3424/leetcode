@@ -11,3 +11,4 @@ The language column contains links to my solution file.
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C](my_solutions/algorithms/longest_substring_without_repeating_characters.c) | Medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C](my_solutions/algorithms/longest_palindromic_substring.c) | Easy |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C](my_solutions/algorithms/zigzag_conversion.c) | Medium |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](my_solutions/algorithms/reverse_integer.c) | Medium |
