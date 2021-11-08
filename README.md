@@ -13,5 +13,6 @@ The language column contains links to my solution file.
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C](algorithms/zigzag_conversion.c) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](algorithms/reverse_integer.c) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](algorithms/palindrome_number.c) | Easy |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C](algorithms/container_with_most_water.c) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](algorithms/roman_to_integer.c) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](algorithms/longest_common_prefix.c) | Easy |
