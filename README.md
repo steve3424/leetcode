@@ -16,6 +16,7 @@ The language column contains links to my solution file.
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C](algorithms/container_with_most_water.c) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](algorithms/roman_to_integer.c) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](algorithms/longest_common_prefix.c) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
 | 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
