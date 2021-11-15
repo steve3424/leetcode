@@ -18,6 +18,7 @@ The language column contains links to my solution file.
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](algorithms/longest_common_prefix.c) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
+| 112 | [Path Sum](https://https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 215 | [Kth Largest Element in an Array](https://https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
