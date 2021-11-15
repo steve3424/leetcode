@@ -21,6 +21,7 @@ The language column contains links to my solution file.
 | 112 | [Path Sum](https://https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 215 | [Kth Largest Element in an Array](https://https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
+| 226 | [Invert Binary Tree](https://https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
 | 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [C](algorithms/design_an_ordered_stream.c) | Easy |
