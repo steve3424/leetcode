@@ -16,6 +16,8 @@ The language column contains links to my solution file.
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C](algorithms/container_with_most_water.c) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](algorithms/roman_to_integer.c) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](algorithms/longest_common_prefix.c) | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](algorithms/add_binary.c) | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](algorithms/binary_tree_inorder_traversal.c) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
 | 112 | [Path Sum](https://https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
@@ -24,5 +26,6 @@ The language column contains links to my solution file.
 | 226 | [Invert Binary Tree](https://https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
 | 283 | [Move Zeroes](https://https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
+| 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C](algorithms/maximum_width_of_binary_tree.c) | Medium |
 | 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [C](algorithms/design_an_ordered_stream.c) | Easy |
