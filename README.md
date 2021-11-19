@@ -20,14 +20,14 @@ The language column contains links to my solution file.
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C](algorithms/word_search.c) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](algorithms/binary_tree_inorder_traversal.c) | Easy |
-| 102 | [Binary Tree Level Order Traversal](https://https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
-| 108 | [Convert Sorted Array to Binary Search Tree](https://https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
-| 112 | [Path Sum](https://https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
-| 215 | [Kth Largest Element in an Array](https://https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
-| 226 | [Invert Binary Tree](https://https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
-| 283 | [Move Zeroes](https://https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
-| 401 | [Binary Watch](https://https://leetcode.com/problems/binary-watch/) | [C](algorithms/binary_watch.c) | Easy |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [C](algorithms/binary_watch.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C](algorithms/maximum_width_of_binary_tree.c) | Medium |
 | 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
