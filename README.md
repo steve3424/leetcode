@@ -27,6 +27,7 @@ The language column contains links to my solution file.
 | 215 | [Kth Largest Element in an Array](https://https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
 | 226 | [Invert Binary Tree](https://https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
 | 283 | [Move Zeroes](https://https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
+| 401 | [Binary Watch](https://https://leetcode.com/problems/binary-watch/) | [C](algorithms/binary_watch.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C](algorithms/maximum_width_of_binary_tree.c) | Medium |
 | 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
