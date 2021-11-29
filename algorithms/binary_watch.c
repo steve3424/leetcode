@@ -62,9 +62,8 @@ inline uint16_t GetHours(uint16_t bits) {
 }
 
 inline uint16_t GetMinutes(uint16_t bits) {
-    uint16_t top_10_bits = 1023 << 6;
-    bits = bits | top_10_bits;
-    return bits ^ top_10_bits;
+    uint16_t bit_mask = 63;
+    return bits & bit_mask;
 }
 
 inline char* GetWatchString(uint16_t bits) {
