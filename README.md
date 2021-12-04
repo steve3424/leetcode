@@ -24,6 +24,7 @@ The language column contains links to my solution file.
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
