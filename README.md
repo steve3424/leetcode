@@ -17,6 +17,7 @@ The language column contains links to my solution file.
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](algorithms/roman_to_integer.c) | Easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C](algorithms/longest_common_prefix.c) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](algorithms/remove_nth_node_from_end_of_list.c) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](algorithms/valid_parentheses.c) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](algorithms/add_binary.c) | Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C](algorithms/word_search.c) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
