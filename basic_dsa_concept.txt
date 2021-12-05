@@ -1,29 +1,13 @@
-- Difference between array (contiguous memory) and linked list (node based)
-- Traversing each
-- Adding / removing from each
-- Downsides of each
+- Array vs linked list
+	- Memory locality
 
-- Binary tree
-- different ways to traverse
-- Importance of keeping it balanced
-- Relation to linked list in pathological case
-- logn
+- Linear search vs Binary search
+
+- Binary trees
+	- balanced
+	- different ways to traverse
 
 - Sorting
-- Basic classes of sorts
-	- n^2, nlogn, linear
-	- insertion / bubble, merge / quick, counting sort
-
-- graphs
-- dykstra / A*
-
-- string structures
-- substring algorithms
-
-- recursion 
-
-- hash table
-- relation to arrays
-
-- basic diff between logn, n, n^2
-- linear search vs binary search
+	- Basic classes of sorts
+		- n^2, nlogn, linear
+		- insertion / bubble, merge / quick, counting / radix
