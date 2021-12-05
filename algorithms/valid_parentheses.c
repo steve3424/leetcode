@@ -19,6 +19,7 @@ bool isValid(char* s) {
     };
     
     char stack[512*7] = {0};
+    // push variable doubles as stack_size.
     int push = 0;
     
     char* current_char = s;
@@ -34,10 +35,14 @@ bool isValid(char* s) {
                         push--;
                     }
                     else {
+                        // Found a close bracket, but most recently opened bracket
+                        // is not a match.
                         return false;
                     }
                 }
                 else {
+                    // Found a close bracket, but there
+                    // is no recently opened bracket.
                     return false;
                 }
             }
@@ -46,5 +51,8 @@ bool isValid(char* s) {
         ++current_char;
     }
     
+    // Push variable is also the stack size so if there is
+    // something left on the stack, that means there are opened
+    // brackets that weren't closed.
     return push == 0;
 }
