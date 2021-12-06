@@ -30,6 +30,7 @@ The language column contains links to my solution file.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C](algorithms/invert_binary_tree.c) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C](algorithms/missing_number.c) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C](algorithms/move_zeroes.c) | Easy |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [C](algorithms/binary_watch.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
