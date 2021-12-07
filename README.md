@@ -12,6 +12,7 @@ The language column contains links to my solution file.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C](algorithms/longest_palindromic_substring.c) | Easy |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C](algorithms/zigzag_conversion.c) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C](algorithms/reverse_integer.c) | Medium |
+| 8 | [String to Integer ATOI](https://leetcode.com/problems/string-to-integer-atoi/) | [C](algorithms/string_to_integer_atoi.c) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C](algorithms/palindrome_number.c) | Easy |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C](algorithms/container_with_most_water.c) | Medium |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C](algorithms/roman_to_integer.c) | Easy |
