@@ -38,6 +38,6 @@ The language column contains links to my solution file.
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [C](algorithms/binary_watch.c) | Easy |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C](algorithms/fibonacci_number.c) | Easy |
 | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [C](algorithms/maximum_width_of_binary_tree.c) | Medium |
-| 697 | [Degre of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [Python](algorithms/degree_of_an_array.py) | Easy |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [C](algorithms/day_of_the_year.c) | Easy |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [C](algorithms/design_an_ordered_stream.c) | Easy |
