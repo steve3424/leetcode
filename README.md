@@ -22,7 +22,10 @@ The language column contains links to my solution file.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C](algorithms/valid_parentheses.c) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C](algorithms/merge_two_sorted_lists.c) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C](algorithms/remove_element.c) | Easy |
+| 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/) | [C](algorithms/implement_strstr.c) | Easy |
 | 35 | [Search Input Position](https://leetcode.com/problems/search-input-position/) | [C](algorithms/search_input_position.c) | Easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](algorithms/maximum_subarray.c) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C](algorithms/length_of_last_word.c) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](algorithms/add_binary.c) | Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C](algorithms/word_search.c) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
