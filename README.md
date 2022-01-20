@@ -29,6 +29,7 @@ The language column contains links to my solution file.
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C](algorithms/length_of_last_word.c) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C](algorithms/plus_one.c) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](algorithms/add_binary.c) | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](algorithms/climbing_stairs.c) | Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C](algorithms/word_search.c) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](algorithms/binary_tree_inorder_traversal.c) | Easy |
