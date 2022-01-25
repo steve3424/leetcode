@@ -31,6 +31,7 @@ The language column contains links to my solution file.
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C](algorithms/add_binary.c) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C](algorithms/climbing_stairs.c) | Easy |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [C](algorithms/word_search.c) | Medium |
+| 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C](algorithms/remove_duplicates_from_sorted_list.c) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](algorithms/binary_tree_inorder_traversal.c) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
