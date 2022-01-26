@@ -34,6 +34,8 @@ The language column contains links to my solution file.
 | 83 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C](algorithms/remove_duplicates_from_sorted_list.c) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](algorithms/merge_sorted_array.c) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [C](algorithms/binary_tree_inorder_traversal.c) | Easy |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [C](algorithms/same_tree.c) | Easy |
+| 101 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C](algorithms/binary_tree_level_order_traversal.c) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C](algorithms/maximum_depth_of_binary_tree.c) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C](algorithms/convert_sorted_array_to_binary_search_tree.c) | Easy |
