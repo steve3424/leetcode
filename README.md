@@ -45,6 +45,7 @@ The language column contains links to my solution file.
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/valid_palindrome.c) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](algorithms/single_number.c) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](algorithms/linked_list_cycle.c) | Easy |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](algorithms/binary_tree_preorder_traversal.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C](algorithms/remove_linked_list_elements.c) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
