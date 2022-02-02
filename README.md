@@ -43,6 +43,7 @@ The language column contains links to my solution file.
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C](algorithms/minimum_depth_of_binary_tree.c) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/valid_palindrome.c) | Easy |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](algorithms/single_number.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C](algorithms/remove_linked_list_elements.c) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
