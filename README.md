@@ -48,6 +48,7 @@ The language column contains links to my solution file.
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [C](algorithms/binary_tree_preorder_traversal.c) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [C](algorithms/binary_tree_postorder_traversal.c) | Easy |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C](algorithms/min_stack.c) | Easy |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C](algorithms/intersection_of_two_linked_lists.c) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C](algorithms/remove_linked_list_elements.c) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
