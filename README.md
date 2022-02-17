@@ -51,6 +51,7 @@ The language column contains links to my solution file.
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C](algorithms/intersection_of_two_linked_lists.c) | Easy |
 | 167 | [Two Sum II Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C](algorithms/two_sum_ii_input_array_is_sorted.c) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](algorithms/majority_element.py) | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](database/second_highest_salary.sql) | Medium |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C](algorithms/remove_linked_list_elements.c) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C](algorithms/reverse_linked_list.c) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [C](algorithms/kth_largest_element_in_an_array.c) | Medium |
