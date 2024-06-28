@@ -42,6 +42,7 @@ The language column contains links to my solution file.
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C](algorithms/balanced_binary_tree.c) | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C](algorithms/minimum_depth_of_binary_tree.c) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [C](algorithms/path_sum.c) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C](algorithms/best_time_to_buy_and_sell_stock.c) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C](algorithms/valid_palindrome.c) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [C](algorithms/single_number.c) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](algorithms/linked_list_cycle.c) | Easy |
